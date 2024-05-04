@@ -1,9 +1,5 @@
 # BOOKS LIST API
 
-### ERD:
-
-![ERD](./erdFlightAPI.png)
-
 ### Installation:
 
 ```
